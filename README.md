@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2> Hey there! I'm Christopher!.</h2>
 
-<!--
-**chrisleo-usa/chrisleo-usa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring a new world as a Front End Developer in training.
+- 🎓 &nbsp; Improving my skills with the :rocket: RocketSeat course.
+- 💼 &nbsp; Looking for opportunities to work as a Front End Developer.
+- 🌱 &nbsp; Studying everyday to become a Front End Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS (SASS) | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Git 
+
+<br/>
+
+[![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisleo-usa&show_icons=true)](https://github.com/chrisleo-usa)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p>
+<a href="https://www.linkedin.com/in/chrisleoalves/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christopher%20Alves-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:chrisleo.usa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chrisleo.usa@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/chrisleoalves/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chrisleoalves-blue?style=flat-square&logo=instagram"></a>
+</p>
+
