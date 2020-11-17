@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS (SASS) | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL
+- 🌐 &nbsp; HTML | CSS (SASS) | JavaScript | Bootstrap | Ruby | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git 
 
 <br/>
