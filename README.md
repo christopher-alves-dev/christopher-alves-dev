@@ -17,7 +17,7 @@
 
 [![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝 Connect with Me </h3>
 
 <p>
 <a href="https://www.linkedin.com/in/chrisleoalves/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christopher%20Alves-blue?style=flat-square&logo=linkedin"></a>
