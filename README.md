@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html.png?token=AMKT7JLQE5GUTDQMWLAQDA273OEF4" />][html]
 
-[<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css.png?token=AMKT7JOVKRD5UCWQVLEUUCS73OEIC" />][css]
+[<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css/css.png?token=AMKT7JJU3Q5VCABHCXATBIS73OIRA" />][css]
 
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/js.png?token=AMKT7JO2EQGOYSNH43GIITK73OEQI" />][javascript]
 
