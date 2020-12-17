@@ -6,7 +6,6 @@
 - 🎓 &nbsp; I started the course of Analysis and Systems Development.
 - 💼 &nbsp; I'm looking for opportunities to work as a Front End Developer Jr.
 - 🌱 &nbsp; Studying everyday to become a Front End Developer.
-
 <br />
 
 ### 🛠 Tech Stack
