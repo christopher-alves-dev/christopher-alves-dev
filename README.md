@@ -47,7 +47,7 @@
 
 ## What i'm playing
 
-[<img src="https://novatorem-git-master.chrisleo-usa.vercel.app//api/spotify-playing" alt="Chris Spotify Playing" width="350" />](https://open.spotify.com/user/22hajtiv54t32vmbfgakh5gvi)
+[![Spotify](https://novatorem-git-master.chrisleo-usa.vercel.app/api/spotify)](https://open.spotify.com/user/22hajtiv54t32vmbfgakh5gvi)
 
 <br/>
 <h3> 🤝 Connect with Me </h3>
