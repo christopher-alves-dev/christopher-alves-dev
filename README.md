@@ -19,15 +19,17 @@
 
 [<img align="left" alt="Javascript" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/js/js.png" />][javascript]
 
-[<img align="left" alt="Sass" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/sass/sass.png" />][sass]
+[<img align="left" alt="Sass" width="30px" src="https://github.com/chrisleo-usa/images/blob/master/languages/sass/sass.png" />][sass]
+
+[<img align="left" alt="Bootstrap" width="30px" src="https://github.com/chrisleo-usa/images/blob/master/languages/bootstrap/bootstrap.png" />][bootstrap]
 
 [<img align="left" alt="NodeJs" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/nodejs/nodejs.png" />][nodejs]
 
-[<img align="left" alt="Gulp" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
+[<img align="left" alt="Gulp" width="18px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
 
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/postgresql/postgresql.png" />][postgresql]
 
-[<img align="left" alt="React" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/react/react.png" />][react]
+[<img align="left" alt="React" width="34px" src="https://github.com/chrisleo-usa/images/blob/master/languages/react/react.png" />][react]
 
 [<img align="left" alt="Ruby" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/ruby/ruby.png" />][ruby]
 
@@ -53,6 +55,7 @@
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [sass]: https://sass-lang.com/
+[bootstrap]: https://getbootstrap.com/
 [nodejs]: https://nodejs.org/en/
 [gulp]: https://gulpjs.com/
 [postgresql]: https://www.postgresql.org/
