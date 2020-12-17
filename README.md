@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/vscode.png?token=AMKT7JO4IUII3ZW73FR3W7C73OCDI" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
 
 <br/>
 
