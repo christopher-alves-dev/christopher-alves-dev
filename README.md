@@ -35,7 +35,7 @@
 
 [<img align="left" alt="Git" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/git/git.png" />][git]
 
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+[<img align="left" alt="Linux" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linux/linux.svg" />][linux]
 
 <br/>
 <br/>
@@ -47,11 +47,9 @@
 
 <div>
   
-[<img align="left" alt="Linkedin" width="35px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linkedin/%E2%80%94Pngtree%E2%80%94linkedin%20icon%20logo_3584840.png" />][linkedin]
-
-[<img align="left" alt="Instagram" width="35px" src="https://github.com/chrisleo-usa/images/blob/master/languages/instagram/%E2%80%94Pngtree%E2%80%94instagram%20icon%20instagram%20logo_3584853.png" />][instagram]
-
-[<img align="left" alt="Gmail" width="40px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gmail/gmail.png" />][gmail]
+[<img color="#0077B5" align="left" alt="Chris Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chris Instagram " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="Chris Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 </div>
 
