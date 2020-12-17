@@ -14,7 +14,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/vscode.png?token=AMKT7JORLWP6UALIGC42ETC73OEDA" />][vscode]
 
 
-[<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html.png?token=AMKT7JLQE5GUTDQMWLAQDA273OEF4" />][html]
+[<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html/html.png?token=AMKT7JIQOYMNUMUTBWWU3RS73OIWC" />][html]
 
 [<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css/css.png?token=AMKT7JJU3Q5VCABHCXATBIS73OIRA" />][css]
 
