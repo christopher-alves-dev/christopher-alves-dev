@@ -25,7 +25,7 @@
 
 [<img align="left" alt="NodeJs" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/nodejs/nodejs.png" />][nodejs]
 
-[<img align="left" alt="Gulp" width="18px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
+[<img align="left" alt="Gulp" width="16px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
 
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/postgresql/postgresql.png" />][postgresql]
 
@@ -37,18 +37,23 @@
 
 [<img align="left" alt="Linux" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linux/linux.svg" />][linux]
 
-
+<br/>
+<br/>
 <br/>
 
 [![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
 
 <h3> 🤝 Connect with Me </h3>
 
-<p>
-<a href="https://www.linkedin.com/in/chrisleoalves/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christopher%20Alves-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:chrisleo.usa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chrisleo.usa@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.instagram.com/chrisleoalves/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chrisleoalves-blue?style=flat-square&logo=instagram"></a>
-</p>
+<div>
+  
+[<img align="left" alt="Linkedin" width="35px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linkedin/%E2%80%94Pngtree%E2%80%94linkedin%20icon%20logo_3584840.png" />][linkedin]
+
+[<img align="left" alt="Instagram" width="35px" src="https://github.com/chrisleo-usa/images/blob/master/languages/instagram/%E2%80%94Pngtree%E2%80%94instagram%20icon%20instagram%20logo_3584853.png" />][instagram]
+
+[<img align="left" alt="Gmail" width="40px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gmail/gmail.png" />][gmail]
+
+</div>
 
 [vscode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
@@ -63,3 +68,6 @@
 [ruby]: https://ruby-doc.org/
 [git]: https://git-scm.com/
 [linux]: https://ubuntu.com/
+[linkedin]: https://www.linkedin.com/in/chrisleoalves/
+[instagram]: https://www.instagram.com/chrisleoalves/
+[gmail]: mailto:chrisleo.usa@gmail.com
