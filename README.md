@@ -42,13 +42,13 @@
 
 <br/>
 
-### :headphones: What i'm playing
+## :headphones: What i'm playing
 
 [![Spotify](https://novatorem-git-master.chrisleo-usa.vercel.app/api/spotify)](https://open.spotify.com/user/22hajtiv54t32vmbfgakh5gvi)
 
 <br/>
 
-### 🤝 Connect with Me 
+## 🤝 Connect with Me 
 
 <div>
   
