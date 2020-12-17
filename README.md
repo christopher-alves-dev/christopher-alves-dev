@@ -6,6 +6,7 @@
 - 🎓 &nbsp; I started the course of Analysis and Systems Development.
 - 💼 &nbsp; I'm looking for opportunities to work as a Front End Developer Jr.
 - 🌱 &nbsp; Studying everyday to become a Front End Developer.
+
 <br />
 
 ### 🛠 Tech Stack
@@ -36,8 +37,6 @@
 
 [<img align="left" alt="Linux" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linux/linux.svg" />][linux]
 
-<br/>
-<br/>
 <br/>
 
 [![Christopher's GitHub Stats](https://github-readme-stats.chrisleo-usa.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
