@@ -41,8 +41,15 @@
 <br/>
 <br/>
 
-[![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
+[![Christopher's GitHub Stats](https://novatorem.chrisleo-usa.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
 
+<br/>
+
+## What i'm playing
+
+[<img src="https://novatorem-git-master.chrisleo-usa.vercel.app//api/spotify-playing" alt="Chris Spotify Playing" width="350" />](https://open.spotify.com/user/22hajtiv54t32vmbfgakh5gvi)
+
+<br/>
 <h3> 🤝 Connect with Me </h3>
 
 <div>
