@@ -17,25 +17,25 @@
 
 [<img align="left" alt="Css 3" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/css/css.png" />][css]
 
-[<img align="left" alt="Javascript" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/js/js.png" />][javascript]
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
-[<img align="left" alt="Sass" width="30px" src="https://github.com/chrisleo-usa/images/blob/master/languages/sass/sass.png" />][sass]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 
-[<img align="left" alt="Bootstrap" width="30px" src="https://github.com/chrisleo-usa/images/blob/master/languages/bootstrap/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 
 [<img align="left" alt="NodeJs" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/nodejs/nodejs.png" />][nodejs]
 
-[<img align="left" alt="Gulp" width="16px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
+[<img align="left" alt="Gulp" width="28px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
 
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/postgresql/postgresql.png" />][postgresql]
 
-[<img align="left" alt="React" width="34px" src="https://github.com/chrisleo-usa/images/blob/master/languages/react/react.png" />][react]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
 [<img align="left" alt="Ruby" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/ruby/ruby.png" />][ruby]
 
 [<img align="left" alt="Git" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/git/git.png" />][git]
 
-[<img align="left" alt="Linux" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linux/linux.svg" />][linux]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 
 <br/>
 <br/>
