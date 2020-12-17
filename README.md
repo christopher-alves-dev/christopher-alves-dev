@@ -9,9 +9,17 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Gulp | Bootstrap | Ruby | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; Git 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/e57ebd98f883c25a29cb8c283abbc349b87433a2/languages/vs-code.svg?token=AMKT7JNLK4TKFCDDREVSJU273N2CW" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html.png?token=AMKT7JKGDEEZLU4SWPDH3NS73NYYK" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css.png?token=AMKT7JMY5LI3HLRLFLZBMIC73N2EG" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/sass.png?token=AMKT7JLIIB3N72XE42AEUQK73N2GI" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/e57ebd98f883c25a29cb8c283abbc349b87433a2/languages/js.svg?token=AMKT7JPCSJN4ASNFYBVQCB273N2H2" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/react.png?token=AMKT7JKS6O3HDVQ7G4NHLRC73N2IY" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/nodejs.png?token=AMKT7JNE6AZH7TFH2F2TDWC73NZMY" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/postgresql.png?token=AMKT7JKVVLCLHBNEMT662RS73NZPO" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/git.png?token=AMKT7JIU6PUXIMAVHN724SK73NZQ2" />
+<img align="left" alt="Gulp" width="20px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/gulp.png?token=AMKT7JIW5YFJ4QKI6CQO3JK73NZ4C" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/e57ebd98f883c25a29cb8c283abbc349b87433a2/languages/linux.svg?token=AMKT7JNA5ATGJSCNANG4FNC73NZ54" />
 
 <br/>
 
