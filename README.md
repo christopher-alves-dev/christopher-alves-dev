@@ -1,15 +1,15 @@
-<h2> Hey there! I'm Christopher!.</h2>
+<h2> Hello there! I'm Chris</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring a new world as a Front End Developer in training.
-- 🎓 &nbsp; Improving my skills with the :rocket: RocketSeat course.
-- 💼 &nbsp; Looking for opportunities to work as a Front End Developer.
+- 🎓 &nbsp; I started the course of Analysis and Systems Development.
+- 💼 &nbsp; I'm looking for opportunities to work as a Front End Developer Jr.
 - 🌱 &nbsp; Studying everyday to become a Front End Developer.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS (SASS) | JavaScript | Gulp | Bootstrap | Ruby | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Gulp | Bootstrap | Ruby | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git 
 
