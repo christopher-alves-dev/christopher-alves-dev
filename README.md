@@ -1,15 +1,24 @@
-<h2> Hello there! I'm Chris</h2>
+### Hello there! I'm Chris
 
-<h3> 👨🏻‍💻 About Me </h3>
+## 👨🏻‍💻 About Me 
 
 - 🤔 &nbsp; Exploring a new world as a Front End Developer in training.
 - 🎓 &nbsp; I started the course of Analysis and Systems Development.
 - 💼 &nbsp; I'm looking for opportunities to work as a Front End Developer Jr.
 - 🌱 &nbsp; Studying everyday to become a Front End Developer.
 
-<h3>🛠 Tech Stack</h3>
+<br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
+### 🛠 Tech Stack
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/vscode.png?token=AMKT7JORLWP6UALIGC42ETC73OEDA" />][vscode]
+
+
+[<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html.png?token=AMKT7JLQE5GUTDQMWLAQDA273OEF4" />][html]
+
+[<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css.png?token=AMKT7JOVKRD5UCWQVLEUUCS73OEIC" />][css]
+
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/js.png?token=AMKT7JO2EQGOYSNH43GIITK73OEQI" />][javascript]
 
 <br/>
 
@@ -23,15 +32,15 @@
 <a href="https://www.instagram.com/chrisleoalves/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chrisleoalves-blue?style=flat-square&logo=instagram"></a>
 </p>
 
-[vscode] : https://code.visualstudio.com/
-[html] : https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css] : https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript] : https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[sass] : https://sass-lang.com/
-[nodejs] : https://nodejs.org/en/
-[gulp] : https://gulpjs.com/
-[postgresql] : https://www.postgresql.org/
-[react] : https://reactjs.org/
-[ruby] : https://ruby-doc.org/
-[git] : https://git-scm.com/
-[linux] : https://ubuntu.com/
+[vscode]: https://code.visualstudio.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[sass]: https://sass-lang.com/
+[nodejs]: https://nodejs.org/en/
+[gulp]: https://gulpjs.com/
+[postgresql]: https://www.postgresql.org/
+[react]: https://reactjs.org/
+[ruby]: https://ruby-doc.org/
+[git]: https://git-scm.com/
+[linux]: https://ubuntu.com/
