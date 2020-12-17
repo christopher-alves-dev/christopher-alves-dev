@@ -13,12 +13,28 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/vscode.png?token=AMKT7JORLWP6UALIGC42ETC73OEDA" />][vscode]
 
-
 [<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html/html.png?token=AMKT7JIQOYMNUMUTBWWU3RS73OIWC" />][html]
 
 [<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css/css.png?token=AMKT7JJU3Q5VCABHCXATBIS73OIRA" />][css]
 
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/js.png?token=AMKT7JO2EQGOYSNH43GIITK73OEQI" />][javascript]
+
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/sass/sass.png?token=AMKT7JIFSFKJXXU7EZDAHSS73OJHO" />][sass]
+
+[<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/nodejs/nodejs.png?token=AMKT7JJ2VHC6EQMTD3PI4MK73OJII" />][nodejs]
+
+[<img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/gulp/gulp.png?token=AMKT7JN7LFWKGY5HW5VICBC73OJI6" />][gulp]
+
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/postgresql/postgresql.png?token=AMKT7JJ5J7HUZKILDHHXHVS73OJJ2" />][postgresql]
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/react/react.png?token=AMKT7JK6WX7YFDJANZYIFZ273OJKW" />][react]
+
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/ruby/ruby.png?token=AMKT7JP66OUY5WYLL667UNK73OJLO" />][ruby]
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/git/git.png?token=AMKT7JOJJ65MDAG7PKEM4RC73OJMI" />][git]
+
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/a0ec47326830f1d2247ab48696591149ee17480a/languages/linux/linux.svg?token=AMKT7JN4F35O2K5C23RALK273OJM6" />][linux]
+
 
 <br/>
 
