@@ -11,15 +11,15 @@
 
 ### 🛠 Tech Stack
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/vscode.png?token=AMKT7JORLWP6UALIGC42ETC73OEDA" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/vscode/vscode.png?token=AMKT7JKTCAJAHNUQ75XBU4C73OJRC" />][vscode]
 
-[<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html/html.png?token=AMKT7JIQOYMNUMUTBWWU3RS73OIWC" />][html]
+[<img align="left" alt="Html 5" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/html/html.png?token=AMKT7JOLI3OOEGY4KV2DXJ273OJU6" />][html]
 
-[<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css/css.png?token=AMKT7JJU3Q5VCABHCXATBIS73OIRA" />][css]
+[<img align="left" alt="Css 3" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/css/css.png?token=AMKT7JIIBU4EQ52CGAGSCBC73OJSY" />][css]
 
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/js.png?token=AMKT7JO2EQGOYSNH43GIITK73OEQI" />][javascript]
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/js/js.png?token=AMKT7JN3UTTIQDSVRYKOIJ273OJZO" />][javascript]
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/sass/sass.png?token=AMKT7JIFSFKJXXU7EZDAHSS73OJHO" />][sass]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/sass/sass.png?token=AMKT7JJNOF5YIPAGPLXKF5S73OJ24" />][sass]
 
 [<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/chrisleo-usa/images/master/languages/nodejs/nodejs.png?token=AMKT7JJ2VHC6EQMTD3PI4MK73OJII" />][nodejs]
 
