@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-[![Christopher's GitHub Stats](https://novatorem.chrisleo-usa.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
+[![Christopher's GitHub Stats](https://github-readme-stats.chrisleo-usa.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
 
 <br/>
 
