@@ -7,7 +7,7 @@
 - 💼 &nbsp; I'm looking for opportunities to work as a Front End Developer Jr.
 - 🌱 &nbsp; Studying everyday to become a Front End Developer.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/vscode/vscode.png" />][vscode]
 
