@@ -31,6 +31,8 @@
 
 [<img align="left" alt="Ruby" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/ruby/ruby.png" />][ruby]
 
+[<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][rails]
+
 [<img align="left" alt="Git" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/git/git.png" />][git]
 
 [<img align="left" alt="Linux" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linux/linux.svg" />][linux]
@@ -67,6 +69,7 @@
 [postgresql]: https://www.postgresql.org/
 [react]: https://reactjs.org/
 [ruby]: https://ruby-doc.org/
+[rails]: https://rubyonrails.org/
 [git]: https://git-scm.com/
 [linux]: https://ubuntu.com/
 [linkedin]: https://www.linkedin.com/in/chrisleoalves/
