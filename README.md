@@ -37,16 +37,14 @@
 
 <br/>
 <br/>
+<br/>
 
 [![Christopher's GitHub Stats](https://github-readme-stats.chrisleo-usa.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
-
 <br/>
 
 ## :headphones: What i'm playing
 
 [![Spotify](https://novatorem-git-master.chrisleo-usa.vercel.app/api/spotify)](https://open.spotify.com/user/22hajtiv54t32vmbfgakh5gvi)
-
-<br/>
 
 ## 🤝 Connect with Me 
 
