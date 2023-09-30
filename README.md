@@ -1,77 +1,100 @@
-### Hello there! I'm Chris
 
-## 👨🏻‍💻 About Me 
 
-- 🤔 &nbsp; Exploring a new world as a Front End Developer in training.
-- 🎓 &nbsp; I started the course of Analysis and Systems Development.
-- 💼 &nbsp; I'm looking for opportunities to work as a Front End Developer Jr.
-- 🌱 &nbsp; Studying everyday to become a Front End Developer.
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-## 🛠 Tech Stack
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/vscode/vscode.png" />][vscode]
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-[<img align="left" alt="Html 5" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/html/html.png" />][html]
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        </samp>
+</h3>
 
-[<img align="left" alt="Css 3" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/css/css.png" />][css]
+<p align="center">
+  <a href="https://github.com/chrisleo-usa"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+<p align="center">
+ <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://twitter.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/alsiam.world" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
 
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-
-[<img align="left" alt="NodeJs" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/nodejs/nodejs.png" />][nodejs]
-
-[<img align="left" alt="Gulp" width="28px" src="https://github.com/chrisleo-usa/images/blob/master/languages/gulp/gulp.png" />][gulp]
-
-[<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/postgresql/postgresql.png" />][postgresql]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-[<img align="left" alt="Ruby" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/ruby/ruby.png" />][ruby]
-
-[<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][rails]
-
-[<img align="left" alt="Git" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/git/git.png" />][git]
-
-[<img align="left" alt="Linux" width="26px" src="https://github.com/chrisleo-usa/images/blob/master/languages/linux/linux.svg" />][linux]
-
-<br/>
-<br/>
-<br/>
-
-[![Christopher's GitHub Stats](https://github-readme-stats.chrisleo-usa.vercel.app/api?username=chrisleo-usa&show_icons=true&theme=cobalt)](https://github.com/chrisleo-usa)
-<br/>
-
-## :headphones: What i'm playing
-
-[![Spotify](https://novatorem-git-master.chrisleo-usa.vercel.app/api/spotify)](https://open.spotify.com/user/22hajtiv54t32vmbfgakh5gvi)
-
-## 🤝 Connect with Me 
-
-<div>
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-[<img color="#0077B5" align="left" alt="Chris Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chris Instagram " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-[<img align="left" alt="Chris Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
-</div>
+</p>
 
-[vscode]: https://code.visualstudio.com/
-[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[sass]: https://sass-lang.com/
-[bootstrap]: https://getbootstrap.com/
-[nodejs]: https://nodejs.org/en/
-[gulp]: https://gulpjs.com/
-[postgresql]: https://www.postgresql.org/
-[react]: https://reactjs.org/
-[ruby]: https://ruby-doc.org/
-[rails]: https://rubyonrails.org/
-[git]: https://git-scm.com/
-[linux]: https://ubuntu.com/
-[linkedin]: https://www.linkedin.com/in/chrisleoalves/
-[instagram]: https://www.instagram.com/chrisleoalves/
-[gmail]: mailto:chrisleo.usa@gmail.com
+<br/>
+
+## I've worked with
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![ChakraUI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/chrisleo-usa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisleo-usa&theme=radical&border=7F3FBF&background=0D1117" alt="Christopher's GitHub streak"/>
+  </a>
+</p>
