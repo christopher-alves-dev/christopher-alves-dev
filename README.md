@@ -69,5 +69,5 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisleo-usa&theme=radical&border=7F3FBF&background=0D1117" alt="Christopher's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=christopher-alves-dev&theme=radical&border=7F3FBF&background=0D1117" alt="Christopher's GitHub streak"/>
 </p>
