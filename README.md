@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/chrisleo-usa">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer+from+Brazil;Almost+3+years+of+experience;Always+learning+new+things&center=true&width=380&height=45&color=FD428E">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer+from+Brazil;3+years+of+experience;Always+learning+new+things&center=true&width=380&height=45&color=FD428E">
   </a>
 </p>
 
