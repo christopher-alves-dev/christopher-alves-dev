@@ -1,4 +1,3 @@
-<!-- Intro  -->
 <h3 align="center">
   &gt; Hey There! I am  Christopher
 </h3>
@@ -14,6 +13,9 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/chrisleoalves" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
+ </a>
+  <a href="https://www.thechriscode.dev" target="_blank">
+  <img src="https://img.shields.io/badge/the%20chris%20code%20-2d0381?style=for-the-badge&url=https%3A%2F%2Fwww.thechriscode.dev%2F" alt="my website"/>
  </a>
 </p>
 
